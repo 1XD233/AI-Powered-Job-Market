@@ -10,7 +10,9 @@ The motivation for this analysis stems from the increasing role of AI in the wor
 
 ### Key Terms
 AI_Adoption_Level: The extent to which the company has adopted AI in its operations.
+
 Automation_Risk: The estimated risk that the job could be automated within the next 10 years.
+
 Job_Growth_Projection: The projected growth or decline of the job role over the next five years.
 
 ## Tools I Used
