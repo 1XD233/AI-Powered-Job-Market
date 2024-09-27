@@ -93,7 +93,7 @@ The analysis of the AI-powered job market was driven by specific questions, whic
 ### Insights
 
 The analysis of the AI-powered job market yielded several insights based on the visualizations, particularly in the areas of automation risk, salary trends, and required skills for various job roles. Below are the key conclusions:
-![AI Job Market Dashboard]()
+![AI Job Market Dashboard](https://github.com/1XD233/AI-Powered-Job-Market/blob/604d6ee25b28ce28ea35c9845930ab2c0d804c75/Dashboard%20Screenshot%20(2).png)
 
 ### 1. Automation Risk by Job Title
    - The **bar chart** on the top left shows that job roles such as **Operations Manager** and **Marketing Specialist** have the highest average automation risk. In contrast, more technical roles such as **AI Researcher** and **Cybersecurity Analyst** show lower automation risk.
